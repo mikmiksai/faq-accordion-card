@@ -42,6 +42,7 @@ body {
 
 button {
   font-family: var(--f-family);
+  outline: none;
 }
 
 .attribution {
